@@ -18,6 +18,7 @@
 
 
 
+
 Created Date: [[Daily Notes/2022-11-25\|2022-11-25]]
 Recent Update: [[Daily Notes/2022-11-25\|2022-11-25]]
 
@@ -55,6 +56,8 @@ Mass Adaption is a graduation process since culture and market need more time to
 
 
 
+
+
 Created Date: [[Daily Notes/2022-11-25\|2022-11-25]]
 Recent Update: [[Daily Notes/2022-11-25\|2022-11-25]]
 
@@ -80,6 +83,8 @@ Originated from Military War Games.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -124,6 +129,8 @@ To be effective, the vision need to shared, and particapant need to believe it i
 
 
 
+
+
 Created Date: [[Daily Notes/2022 Q3/2022-09-18\|2022-09-18]]
 Recent Update: [[Daily Notes/2022-11-29\|2022-11-29]]
 
@@ -143,6 +150,7 @@ From [[@P Roy Amara\|@P Roy Amara]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -172,6 +180,8 @@ Multiple rounds of anonymous questionnaires intersected with discussion, to reac
 
 
 
+
+
 Created Date: [[Daily Notes/2022-11-22\|2022-11-22]]
 Recent Update: [[Daily Notes/2022-11-29\|2022-11-29]]
 
@@ -193,6 +203,8 @@ Recent Update: [[Daily Notes/2022-11-29\|2022-11-29]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
