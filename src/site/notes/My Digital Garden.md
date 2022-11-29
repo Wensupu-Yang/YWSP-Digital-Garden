@@ -3,8 +3,8 @@
 ---
 
 
-Welcome to YWSP's Digital Garden
-欢迎来到杨文骕璞的数字花园
+Welcome to YWSP's Digital Garden (Beta)
+欢迎来到杨文骕璞的数字花园(内测版)
 
 Update Date 更新日期: [[Daily Notes/2022-11-29\|2022-11-29]]
 
