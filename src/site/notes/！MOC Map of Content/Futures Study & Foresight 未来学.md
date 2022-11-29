@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/moc-map-of-content/futures-study-and-foresight/"}
 ---
 
-
 [[！Evergreen Notes/Joseph's 7 Stages of Innovation 约瑟夫创新的7阶段\|Joseph's 7 Stages of Innovation 约瑟夫创新的7阶段]]
 [[！Evergreen Notes/Serious Game 正经游戏\|Serious Game 正经游戏]]
 [[！Evergreen Notes/Preferred Future 偏好未來\|Preferred Future 偏好未來]]
