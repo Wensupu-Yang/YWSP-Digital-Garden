@@ -10,7 +10,7 @@ Update Date 更新日期: [[Daily Notes/2022-11-29\|2022-11-29]]
 
 ## MOC 内容图谱
 
-[[！MOC Map of Content/Futures Study & Foresight 未来学\|Futures Study & Foresight 未来学]]
+[[！MOC Map of Content/Futures Study_Foresight 未来学\|Futures Study_Foresight 未来学]]
 [[！MOC Map of Content/Learning theory 学习技术\|Learning theory 学习技术]]
 [[！MOC Map of Content/Health 健康\|Health 健康]]
 [[！MOC Map of Content/Phycology 心理学\|Phycology 心理学]]
