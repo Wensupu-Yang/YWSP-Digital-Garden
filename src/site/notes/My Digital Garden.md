@@ -4,7 +4,9 @@
 
 
 Welcome to YWSP's Digital Garden
-欢迎来到我的数字花园
+欢迎来到杨文骕璞的数字花园
+
+Update Date 更新日期: [[Daily Notes/2022-11-29\|2022-11-29]]
 
 ## MOC 内容图谱
 [[！MOC Map of Content/Futures Study & Foresight 未来学\|Futures Study & Foresight 未来学]]
