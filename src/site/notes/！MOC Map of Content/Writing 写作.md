@@ -5,7 +5,7 @@
 
 [[！Evergreen Notes/Seed Reader 第一读者\|Seed Reader 第一读者]]
 [[！Evergreen Notes/Fiction Writing for Knowledge Integration 虚构写作作为知识整合\|Fiction Writing for Knowledge Integration 虚构写作作为知识整合]]
-[[Daily Notes/Self-Taught Tech Journalism 自学科技记者\|Self-Taught Tech Journalism 自学科技记者]]
+[[！Evergreen Notes/Self-Taught Tech Journalism 自学科技记者\|Self-Taught Tech Journalism 自学科技记者]]
 
 
 ---
