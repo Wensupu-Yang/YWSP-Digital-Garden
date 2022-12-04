@@ -19,7 +19,7 @@ Recent Update: [[Daily Notes/2022-11-30\|2022-11-30]]
 
 ## Related Ideas
 - [[@B Metaphors We Live By\|@B Metaphors We Live By]]
-- [[Daily Notes/Idea Slot Machines\|Idea Slot Machines]]
+- [[！Evergreen Notes/Idea Slot Machines\|Idea Slot Machines]]
 
 
 ## References
