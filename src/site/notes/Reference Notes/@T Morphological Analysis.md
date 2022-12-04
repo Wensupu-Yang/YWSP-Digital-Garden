@@ -10,7 +10,7 @@ Recent Update: [[Daily Notes/2022-12-04\|2022-12-04]]
 Exploring possible solutions to a multi-dimensional, non-quantified complex problem, developed by [[@P Fritz Zwicky\|@P Fritz Zwicky]]
 
 ## Related Idea
-[[Daily Notes/Idea Slot Machines\|Idea Slot Machines]]
+[[！Evergreen Notes/Idea Slot Machines\|Idea Slot Machines]]
 
 
 
