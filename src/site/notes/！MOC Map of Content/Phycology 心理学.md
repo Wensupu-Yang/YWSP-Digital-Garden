@@ -4,7 +4,7 @@
 
 
 [[！Evergreen Notes/Sequential Functional Stack Theory 顺序功能架假说\|Sequential Functional Stack Theory 顺序功能架假说]]
-[[Daily Notes/Fear is excitement without the breath 恐惧只是忘了呼吸的激动\|Fear is excitement without the breath 恐惧只是忘了呼吸的激动]]
+[[Reference Notes/Fear is excitement without the breath 恐惧只是忘了呼吸的激动\|Fear is excitement without the breath 恐惧只是忘了呼吸的激动]]
 
 ---
 
