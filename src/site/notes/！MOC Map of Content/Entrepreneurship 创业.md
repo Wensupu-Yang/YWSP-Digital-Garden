@@ -4,7 +4,7 @@
 
 
 [[！Evergreen Notes/Build a Startup in 5 steps 创业的5步\|Build a Startup in 5 steps 创业的5步]]
-[[Daily Notes/Self-Taught Tech Journalism 自学科技记者\|Self-Taught Tech Journalism 自学科技记者]]
+[[！Evergreen Notes/Self-Taught Tech Journalism 自学科技记者\|Self-Taught Tech Journalism 自学科技记者]]
 
 
 ---
