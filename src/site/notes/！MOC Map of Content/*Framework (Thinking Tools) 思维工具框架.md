@@ -24,3 +24,7 @@
 
 # Creative Thinking 
 - [[Reference Notes/@T Morphological Analysis\|@T Morphological Analysis]]  
+- [[！Evergreen Notes/@T Relevance Tree 相关树\|@T Relevance Tree 相关树]]
+
+## Critical Thinking
+- [[！Evergreen Notes/Analytical Wargame 分析战争游戏\|Analytical Wargame 分析战争游戏]]
