@@ -3,7 +3,7 @@
 ---
 
 
-[[Daily Notes/Memento Mori 勿忘你終有一死\|Memento Mori 勿忘你終有一死]]
+[[！Evergreen Notes/Memento Mori 勿忘你終有一死\|Memento Mori 勿忘你終有一死]]
 
 
 ---
@@ -28,7 +28,7 @@ Remember you Must Die
 ## Discussion 
 Contemplation of death is a great antidote to "unconsciously assumed immortality" 
 
-> [[Daily Notes/Stoic 斯多葛主义\|Stoic 斯多葛主义]] used Memento Mori to invigorate life and to create priority and meaning
+> [[！Evergreen Notes/Stoic 斯多葛主义\|Stoic 斯多葛主义]] used Memento Mori to invigorate life and to create priority and meaning
 
 
 
