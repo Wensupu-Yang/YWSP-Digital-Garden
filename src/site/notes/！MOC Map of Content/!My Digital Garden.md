@@ -39,3 +39,7 @@ Update Frequency 更新频率: Weekly 周更
 [[！MOC Map of Content/Professional Development 职业发展\|Professional Development 职业发展]] 
 [[！MOC Map of Content/*Framework (Thinking Tools) 思维工具框架\|*Framework (Thinking Tools) 思维工具框架]]
 [[！MOC Map of Content/*Mental Model 思维模型\|*Mental Model 思维模型]]
+
+---
+
+[[！MOC Map of Content/Book Notes 读书笔记\|Book Notes 读书笔记]]
