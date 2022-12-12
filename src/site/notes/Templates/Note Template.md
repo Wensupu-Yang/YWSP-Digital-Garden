@@ -4,7 +4,7 @@
 
 
 Created Date: [[{{date}}\|{{date}}]]
-Recent Update: [[{{date}}\|{{date}}]]
+Recent Update:  [[{{date}}\|{{date}}]]
 
 ---
 
