@@ -33,6 +33,7 @@ Update Frequency 更新频率: Weekly 周更
 [[！MOC Map of Content/Economics 经济学\|Economics 经济学]]
 [[！MOC Map of Content/Technology 科技\|Technology 科技]]
 [[！MOC Map of Content/History 历史\|History 历史]] 
+[[！MOC Map of Content/Environment 环境\|Environment 环境]]
 [[！MOC Map of Content/Life Philosophy 人生哲学\|Life Philosophy 人生哲学]] 
 [[！MOC Map of Content/Inspirational Quotes 好句子\|Inspirational Quotes 好句子]]
 [[！MOC Map of Content/Professional Development 职业发展\|Professional Development 职业发展]] 
@@ -47,4 +48,6 @@ Update Frequency 更新频率: Weekly 周更
 ## Release Notes
 
 ### Week 2
+- Setup local graph view 设置了本地网络视图
 - Add Book Notes Section 加入读书笔记章节
+- New Plug-in 启用新插件 Media Extender, Templater 
