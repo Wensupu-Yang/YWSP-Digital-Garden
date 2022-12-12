@@ -23,3 +23,7 @@ Explanation of how things work.
 [[@M Educated Incapacity\|@M Educated Incapacity]] 
 [[@M Curse of knowledge\|@M Curse of knowledge]]
 [[@M Wild Card / Black Swan\|@M Wild Card / Black Swan]]
+
+## Motivation
+[[！Evergreen Notes/Model of Motivation and Action 知行模型\|Model of Motivation and Action 知行模型]]
+[[！Evergreen Notes/Hero's Journey 英雄之旅\|Hero's Journey 英雄之旅]] 
