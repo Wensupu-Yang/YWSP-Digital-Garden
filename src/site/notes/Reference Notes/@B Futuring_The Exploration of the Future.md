@@ -3,6 +3,7 @@
 ---
 
 
+
 # @B Futuring_The Exploration of the Future
 ISBN: 0930242572
 Author: [[Daily Notes/Edward Cornish\|Edward Cornish]]
@@ -191,7 +192,10 @@ Future :
 #Def [[4. Archives/Temp-Permanent Notes/Foresight\|Foresight]] :
 the ability to make decisions that are judged to be good not just in the present moment but in the long run
 
-> We are made wise not by the recollection of our past, but by the responsibility for our future. 
-> By [[Reference Notes/@P George Bernard Shaw\|@P George Bernard Shaw]]
+>[[Reference Notes/We are made wise not by the recollection of our past, but by the responsibility for our future. 我们追求智慧不是通过追忆过去，而是因为对未来的责任\|We are made wise not by the recollection of our past, but by the responsibility for our future. 我们追求智慧不是通过追忆过去，而是因为对未来的责任]]
+> 
 
-Native American often refer the future as "the seventh generation yet unborn"
+Native Americans often refer to the future as "the seventh generation yet unborn"
+
+
+testing
