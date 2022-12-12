@@ -5,8 +5,8 @@
 
 # {{title}}
 ISBN: 
-Date Read: <% tp.date.now("YYYY-MM-DD") %>
-Recent Update Date: <% tp.file.last_modified_date("YYYY-MM-DD") %>
+Date Read: [[{{date}}\|{{date}}]]
+Recent Update Date: [[{{date}}\|{{date}}]]
 Go to the Amazon page for details and reviews.
 
 ---
