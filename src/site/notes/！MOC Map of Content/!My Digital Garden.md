@@ -18,9 +18,8 @@ This site is built with [Obsidian](https://obsidian.md) and [Obsidian Digital Ga
 本站使用 [Obsidian](https://obsidian.md) 和 [Ole Eskild Steensen](https://ko-fi.com/oleeskild) 开发的插件 [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) （十分感谢）
 
 Garden Initiated Date 花园动工日记: [[Daily Notes/2022-11-29\|2022-11-29]]
-Recent Update Date 更新日期: [[Daily Notes/2022-12-04\|2022-12-04]]
+Recent Update Date 更新日期: [[Daily Notes/2022-12-12\|2022-12-12]]
 Update Frequency 更新频率: Weekly 周更
-
 
 ## Map of Content 内容图谱
 
@@ -43,3 +42,9 @@ Update Frequency 更新频率: Weekly 周更
 ---
 
 [[！MOC Map of Content/Book Notes 读书笔记\|Book Notes 读书笔记]]
+
+---
+## Release Notes
+
+### Week 2
+- Add Book Notes Section 加入读书笔记章节
