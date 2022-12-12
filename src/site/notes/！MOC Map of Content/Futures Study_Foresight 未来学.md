@@ -10,6 +10,9 @@
 [[！Evergreen Notes/Productive Dreaming 有用的白日梦\|Productive Dreaming 有用的白日梦]]
 [[！Evergreen Notes/DEGEST Trend Classification Method 趋势分类法\|DEGEST Trend Classification Method 趋势分类法]]
 [[！Evergreen Notes/Self-Fulfilling Prophecy 自我实现预言\|Self-Fulfilling Prophecy 自我实现预言]]
+[[！Evergreen Notes/POGU Foresight Domains POGU前瞻领域\|POGU Foresight Domains POGU前瞻领域]] 
+[[！Evergreen Notes/Foresight System 1 &2 前瞻系统1和2\|Foresight System 1 &2 前瞻系统1和2]]
+[[！Evergreen Notes/Temporal Triad 时序三联\|Temporal Triad 时序三联]]
 
 ---
 
