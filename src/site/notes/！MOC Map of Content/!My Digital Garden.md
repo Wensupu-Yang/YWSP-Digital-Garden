@@ -22,7 +22,7 @@ Recent Update Date 更新日期: [[Daily Notes/2022-12-12\|2022-12-12]]
 Update Frequency 更新频率: Weekly 周更
 
 ## Map of Content 内容图谱
-
+### Filed of Knowledge 学科领域
 [[！MOC Map of Content/Futures Study_Foresight 未来学\|Futures Study_Foresight 未来学]]
 [[！MOC Map of Content/Learning theory 学习技术\|Learning theory 学习技术]]
 [[！MOC Map of Content/Health 健康\|Health 健康]]
@@ -34,14 +34,18 @@ Update Frequency 更新频率: Weekly 周更
 [[！MOC Map of Content/Technology 科技\|Technology 科技]]
 [[！MOC Map of Content/History 历史\|History 历史]] 
 [[！MOC Map of Content/Environment 环境\|Environment 环境]]
+[[！MOC Map of Content/Culture & Anthropology 文化与人类学\|Culture & Anthropology 文化与人类学]]
+
+### Personal Development
 [[！MOC Map of Content/Life Philosophy 人生哲学\|Life Philosophy 人生哲学]] 
-[[！MOC Map of Content/Inspirational Quotes 好句子\|Inspirational Quotes 好句子]]
 [[！MOC Map of Content/Professional Development 职业发展\|Professional Development 职业发展]] 
 [[！MOC Map of Content/*Framework (Thinking Tools) 思维工具框架\|*Framework (Thinking Tools) 思维工具框架]]
 [[！MOC Map of Content/*Mental Model 思维模型\|*Mental Model 思维模型]]
 
 ---
 
+### Useful Resources
+[[！MOC Map of Content/Inspirational Quotes 好句子\|Inspirational Quotes 好句子]]
 [[！MOC Map of Content/Book Notes 读书笔记\|Book Notes 读书笔记]]
 
 ---
