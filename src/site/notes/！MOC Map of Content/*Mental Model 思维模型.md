@@ -11,6 +11,7 @@ Explanation of how things work.
 ## Economics
 
 ## Complexity Theory
+[[Daily Notes/80-20 Rule\|80-20 Rule]]
 
 ## Fututes Study
 - [[！Evergreen Notes/VUCA 雾卡(时代)\|VUCA 雾卡(时代)]]
