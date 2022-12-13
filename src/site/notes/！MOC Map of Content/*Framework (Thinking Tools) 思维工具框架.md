@@ -6,7 +6,7 @@
 # Future Thinking and Foresight
 - [[@T Backcasting\|@T Backcasting]]
 - [[@T CLA (Causal Layered Analysis)\|@T CLA (Causal Layered Analysis)]] 
-- [[@T Cone of Possibilities (Futures Cone)\|@T Cone of Possibilities (Futures Cone)]]
+- [[Daily Notes/@T Cone of Possibilities (Futures Cone)\|@T Cone of Possibilities (Futures Cone)]]
 	- possible, probable, preferred, provocative, and plausible futures
 - [[Reference Notes/@T Look Back to Look Forward\|@T Look Back to Look Forward]]
 - [[4. Archives/Temp-Permanent Notes/@T Drivers of Change\|@T Drivers of Change]]
@@ -28,3 +28,7 @@
 
 ## Critical Thinking
 - [[！Evergreen Notes/Analytical Wargame 分析战争游戏\|Analytical Wargame 分析战争游戏]]
+- [[Daily Notes/Hanlon's razor\|Hanlon's razor]]
+
+## Holistic 
+[[Daily Notes/@T Do Loop\|@T Do Loop]]
