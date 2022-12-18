@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/daily-notes/stay-in-your-head-you-re-dead/"}
+---
+
+
+Tag:  #Quote 
+Source: [[Daily Notes/@V I Am Not Your Guru\|@V I Am Not Your Guru]]
