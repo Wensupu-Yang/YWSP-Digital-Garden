@@ -30,5 +30,8 @@
 - [[！Evergreen Notes/Analytical Wargame 分析战争游戏\|Analytical Wargame 分析战争游戏]]
 - [[Daily Notes/Hanlon's razor\|Hanlon's razor]]
 
+### Scientific Method
+- [[Daily Notes/@T OHPER\|@T OHPER]]
+
 ## Holistic 
 [[Daily Notes/@T Do Loop\|@T Do Loop]]
