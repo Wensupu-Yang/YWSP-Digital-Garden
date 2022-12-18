@@ -3,7 +3,7 @@
 ---
 
 
-[[Daily Notes/External China 外界中国\|External China 外界中国]]
+[[！Evergreen Notes/External China 外界中国\|External China 外界中国]]
 
 
 
