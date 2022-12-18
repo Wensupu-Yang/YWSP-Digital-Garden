@@ -10,5 +10,7 @@
 - [[Reference Notes/We are either growing, or we are dying 我们要么在成长，要不就在死亡\|We are either growing, or we are dying 我们要么在成长，要不就在死亡]]
 - [[Daily Notes/Shuttles are for slaves 大巴是给奴隶的\|Shuttles are for slaves 大巴是给奴隶的]]
 - [[Daily Notes/Foresight is anything we do _prior_ to strategic planning. 前瞻是所有在战略规划之前做的事情\|Foresight is anything we do _prior_ to strategic planning. 前瞻是所有在战略规划之前做的事情]]
+- [[Daily Notes/Stay in Your head, You're Dead. 不付诸行动，你就是死人一个\|Stay in Your head, You're Dead. 不付诸行动，你就是死人一个]]
+- [[Daily Notes/(GIGO) Great inputs promote great outputs 好输入促进好产出\|(GIGO) Great inputs promote great outputs 好输入促进好产出]]
 
 
