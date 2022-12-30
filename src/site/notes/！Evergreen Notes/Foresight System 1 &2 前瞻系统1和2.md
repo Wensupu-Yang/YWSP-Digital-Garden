@@ -15,5 +15,5 @@ Foresight System 2: Slow, Deliberate future thinking
 
 
 ## References
-[[Daily Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
+[[Reference Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
 [[Reference Notes/@B Thinking, Fast and Slow思考的快与慢\|@B Thinking, Fast and Slow思考的快与慢]]
