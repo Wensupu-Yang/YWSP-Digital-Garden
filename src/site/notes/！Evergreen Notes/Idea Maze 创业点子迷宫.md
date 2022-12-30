@@ -20,4 +20,4 @@ By researching the startup landscape and history(those initiatives that failed),
 
 
 ## References
-[[Daily Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]]
+[[Reference Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]]
