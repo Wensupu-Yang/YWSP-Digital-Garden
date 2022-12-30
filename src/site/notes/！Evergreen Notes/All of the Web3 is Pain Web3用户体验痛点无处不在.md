@@ -8,7 +8,7 @@ Recent Update: [[Daily Notes/2022-12-02\|2022-12-02]]
 
 ---
 #Quote   
-[[Daily Notes/@P Dan Robinson\|@P Dan Robinson]]
+[[Reference Notes/@P Dan Robinson\|@P Dan Robinson]]
 Timestamp: 53:30
 
 [[UX\|UX]] is not friendly to even the tech savvy. 
