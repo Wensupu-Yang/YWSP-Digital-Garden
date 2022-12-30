@@ -24,5 +24,5 @@ Recent Update:  [[Daily Notes/2022-12-12\|2022-12-12]]
 
 
 ## References
-[[Daily Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]]
+[[Reference Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]]
 Lecture 4
