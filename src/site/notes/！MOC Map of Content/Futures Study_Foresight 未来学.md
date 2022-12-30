@@ -14,5 +14,5 @@
 [[！Evergreen Notes/Foresight System 1 &2 前瞻系统1和2\|Foresight System 1 &2 前瞻系统1和2]]
 [[！Evergreen Notes/Temporal Triad 时序三联\|Temporal Triad 时序三联]]
 [[！Evergreen Notes/Six Thinking Types & Four Foresight Skills 6类思考类型和4大前瞻能力\|Six Thinking Types & Four Foresight Skills 6类思考类型和4大前瞻能力]]
-[[Daily Notes/@T Cone of Possibilities (Futures Cone)\|@T Cone of Possibilities (Futures Cone)]]
+[[Reference Notes/@T Cone of Possibilities (Futures Cone)\|@T Cone of Possibilities (Futures Cone)]]
 [[Daily Notes/Value Proposition of Foresight 前瞻的价值主张\|Value Proposition of Foresight 前瞻的价值主张]]
