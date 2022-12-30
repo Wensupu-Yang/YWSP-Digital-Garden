@@ -36,5 +36,5 @@ Implication: Ask What If?
 
 
 ## References
-- [[Daily Notes/@E Powering the Future of Wargaming Science & Tech for Strategic Advantage\|@E Powering the Future of Wargaming Science & Tech for Strategic Advantage]]
+- [[Reference Notes/@E Powering the Future of Wargaming Science & Tech for Strategic Advantage\|@E Powering the Future of Wargaming Science & Tech for Strategic Advantage]]
 - Burks & Appleget_Analytic Wargaming Best and Worst Practices 2018
