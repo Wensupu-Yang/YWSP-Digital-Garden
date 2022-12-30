@@ -19,4 +19,4 @@ Recent Update: [[Daily Notes/2022-12-02\|2022-12-02]]
 
 
 ## References
-[[Daily Notes/@E Interview with @P Mark Frauenfelder\|@E Interview with @P Mark Frauenfelder]]
+[[Reference Notes/@E Interview with @P Mark Frauenfelder\|@E Interview with @P Mark Frauenfelder]]
