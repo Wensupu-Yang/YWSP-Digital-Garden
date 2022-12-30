@@ -176,7 +176,7 @@ Recent Update: [[Daily Notes/2022-11-30\|2022-11-30]]
 > Pg 239
 
 
-[[Daily Notes/@P Marquis de Condorcet\|@P Marquis de Condorcet]]  
+[[Reference Notes/@P Marquis de Condorcet\|@P Marquis de Condorcet]]  
 Author of [[@B Sketch for a Historical Picture of the Progress of the Human Mind\|@B Sketch for a Historical Picture of the Progress of the Human Mind]] 
 First making conditional predictions 
 
