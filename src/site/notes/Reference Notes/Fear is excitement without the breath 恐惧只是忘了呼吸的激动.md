@@ -24,4 +24,4 @@ The level of arousal/ excitement is less important than positive emotional inter
 
 
 ## References
-[[Daily Notes/@B The Big Leap_Conquer Your Hidden Fear and Take Life to the Next Level\|@B The Big Leap_Conquer Your Hidden Fear and Take Life to the Next Level]] 
+[[Reference Notes/@B The Big Leap_Conquer Your Hidden Fear and Take Life to the Next Level\|@B The Big Leap_Conquer Your Hidden Fear and Take Life to the Next Level]] 
