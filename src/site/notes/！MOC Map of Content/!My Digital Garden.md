@@ -53,7 +53,7 @@ Update Frequency 更新频率: Weekly 周更
 ## Release Notes
 
 ### Week 3
-
+- 无功能层面更新
 
 ### Week 2
 - Setup local graph view 设置了本地网络视图
