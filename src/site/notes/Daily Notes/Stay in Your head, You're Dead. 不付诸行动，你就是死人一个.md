@@ -4,4 +4,4 @@
 
 
 Tag:  #Quote 
-Source: [[Daily Notes/@V I Am Not Your Guru\|@V I Am Not Your Guru]]
+Source: [[Reference Notes/@V I Am Not Your Guru\|@V I Am Not Your Guru]]
