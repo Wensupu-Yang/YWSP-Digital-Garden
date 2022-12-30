@@ -22,4 +22,4 @@ Probable and Possible Futures are foundation of Preferable Futures
 
 
 ## References
-[[Daily Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
+[[Reference Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
