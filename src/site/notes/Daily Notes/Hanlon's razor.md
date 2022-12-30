@@ -22,4 +22,4 @@ Aligning Incentives, flat organization, least possible top-down order, and allow
 
 ## References
 
-[[Daily Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
+[[Reference Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
