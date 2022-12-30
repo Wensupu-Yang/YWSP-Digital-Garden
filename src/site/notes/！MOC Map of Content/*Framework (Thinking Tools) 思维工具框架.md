@@ -6,7 +6,7 @@
 # Future Thinking and Foresight
 - [[@T Backcasting\|@T Backcasting]]
 - [[@T CLA (Causal Layered Analysis)\|@T CLA (Causal Layered Analysis)]] 
-- [[Daily Notes/@T Cone of Possibilities (Futures Cone)\|@T Cone of Possibilities (Futures Cone)]]
+- [[Reference Notes/@T Cone of Possibilities (Futures Cone)\|@T Cone of Possibilities (Futures Cone)]]
 	- possible, probable, preferred, provocative, and plausible futures
 - [[Reference Notes/@T Look Back to Look Forward\|@T Look Back to Look Forward]]
 - [[4. Archives/Temp-Permanent Notes/@T Drivers of Change\|@T Drivers of Change]]
@@ -31,7 +31,7 @@
 - [[Daily Notes/Hanlon's razor\|Hanlon's razor]]
 
 ### Scientific Method
-- [[Daily Notes/@T OHPER\|@T OHPER]]
+- [[Reference Notes/@T OHPER\|@T OHPER]]
 
 ## Holistic 
-[[Daily Notes/@T Do Loop\|@T Do Loop]]
+[[Reference Notes/@T Do Loop\|@T Do Loop]]
