@@ -20,6 +20,6 @@ Attempts at [[GitCoin\|GitCoin]], But not figure out yet.
 
 
 ## References
-[[Daily Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]]
+[[Reference Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]]
  [Entrepreneurship In Web3 Lec 2: Web3 landscape (I) - YouTube](https://www.youtube.com/watch?v=YWo2zM-0SDI)
 [Fetching Title#as5a](https://gitcoin.co)
