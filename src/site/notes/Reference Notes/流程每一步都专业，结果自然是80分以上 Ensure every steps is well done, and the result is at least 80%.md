@@ -4,4 +4,4 @@
 
 
 Tag: #Quote 
-Source: [[Reference Notes/WYGG\|WYGG]] [[Daily Notes/@E 美灵会客厅第三十九期\|@E 美灵会客厅第三十九期]]
+Source: [[Reference Notes/WYGG\|WYGG]] [[Reference Notes/@E 美灵会客厅第三十九期\|@E 美灵会客厅第三十九期]]
