@@ -19,4 +19,4 @@ Given the desired outcome(s), how to make the game such the players choose the d
 
 
 ## References
-[[Daily Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]] Lecture 11
+[[Reference Notes/@C Entrepreneurship In Web3\|@C Entrepreneurship In Web3]] Lecture 11
