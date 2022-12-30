@@ -4,7 +4,7 @@
 
 
 Tag: #Quote 
-Source: [[Daily Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
+Source: [[Reference Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
 
 > As long as you’re reading some threshold level of excellent inputs, your thinking, modeling, speaking, writing, and actions will be also tend to be very good.
 
