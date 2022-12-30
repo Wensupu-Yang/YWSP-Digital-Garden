@@ -4,4 +4,4 @@
 
 
 Tag: 
-Source: [[Daily Notes/@B Nomad Capitalist\|@B Nomad Capitalist]] 
+Source: [[Reference Notes/@B Nomad Capitalist\|@B Nomad Capitalist]] 
