@@ -18,4 +18,4 @@ Foresight (Future)
 
 
 ## References
-[[Daily Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
+[[Reference Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
