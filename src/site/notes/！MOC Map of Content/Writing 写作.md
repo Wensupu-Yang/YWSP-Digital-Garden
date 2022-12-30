@@ -32,7 +32,7 @@ Recent Update: [[Daily Notes/2022-11-25\|2022-11-25]]
 
 
 ## References
-#IRL  [[Daily Notes/@E 美灵会客厅第三十八期\|@E 美灵会客厅第三十八期]]  @[[Reference Notes/WYGG\|WYGG]]
+#IRL  [[Reference Notes/@E 美灵会客厅第三十八期\|@E 美灵会客厅第三十八期]]  @[[Reference Notes/WYGG\|WYGG]]
 
 
 </div></div>
@@ -88,7 +88,7 @@ Recent Update: [[Daily Notes/2022-12-02\|2022-12-02]]
 
 
 ## References
-[[Daily Notes/@E Interview with @P Mark Frauenfelder\|@E Interview with @P Mark Frauenfelder]]
+[[Reference Notes/@E Interview with @P Mark Frauenfelder\|@E Interview with @P Mark Frauenfelder]]
 
 
 </div></div>
