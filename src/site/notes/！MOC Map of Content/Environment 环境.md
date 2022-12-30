@@ -16,7 +16,7 @@ Recent Update:  [[Daily Notes/2022-12-12\|2022-12-12]]
 ---
 
 ## Source
-[[Daily Notes/@P Jeremy Woods\|@P Jeremy Woods]]
+[[Reference Notes/@P Jeremy Woods\|@P Jeremy Woods]]
 
 ## Explanation
 Stright-line discount of carbon emmsion, even if it will it the total emision gaol, the upfront emsion will push over the goal of climate goal.
@@ -32,6 +32,6 @@ Better Model need to be developed, if not already exist
 
 
 ## References
-[[Daily Notes/@E 中英科技峰会\|@E 中英科技峰会]]
+[[Reference Notes/@E 中英科技峰会\|@E 中英科技峰会]]
 
 </div></div>
