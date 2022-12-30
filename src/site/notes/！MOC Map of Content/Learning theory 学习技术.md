@@ -67,7 +67,7 @@ Recent Update: [[Daily Notes/2022-12-02\|2022-12-02]]
 
 ## References
 [Open Syllabus: Galaxy](https://galaxy.opensyllabus.org)
-[[Daily Notes/@E 美灵会客厅第三十九期\|@E 美灵会客厅第三十九期]]
+[[Reference Notes/@E 美灵会客厅第三十九期\|@E 美灵会客厅第三十九期]]
 
 
 </div></div>
