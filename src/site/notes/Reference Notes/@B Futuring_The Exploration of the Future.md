@@ -6,7 +6,7 @@
 
 # @B Futuring_The Exploration of the Future
 ISBN: 0930242572
-Author: [[Daily Notes/Edward Cornish\|Edward Cornish]]
+Author: [[Reference Notes/@P Edward Cornish\|@P Edward Cornish]]
 Date Read: 2022-11-22
 Recent Update Date: 2022-12-09
 Go to the [Amazon page](https://www.amazon.co.uk/Futuring-Exploration-Future-Edward-Cornish-ebook/dp/B002CQTLG4#detailBullets_feature_div) for details and reviews.
@@ -21,7 +21,7 @@ Go to the [Amazon page](https://www.amazon.co.uk/Futuring-Exploration-Future-Edw
 > Pg 3
 
 
-> On **[[！Evergreen Notes/Productive Dreaming 有用的白日梦\|Productive Dreaming 有用的白日梦]]**
+> On **[[! Evergreen Notes/Productive Dreaming 有用的白日梦\|Productive Dreaming 有用的白日梦]]**
 > "For the great explorers, dreaming was not idle reverie but research- a mental exploration of what lay ahead. By fantasizing about future events, they could explore alternative goals and strategies and thus develop and select worthwhile and achievable goals, as well as imaginative but realistic strategies for reaching the goals they selected.
 > Pg 7
 
@@ -53,16 +53,16 @@ Implication:
 > Pg 62
 
 ## Future Method
-- [[！Evergreen Notes/@T Delphi method 德尔菲法\|@T Delphi method 德尔菲法]]
-- [[！Evergreen Notes/Serious Game 正经游戏\|Serious Game 正经游戏]] 
+- [[! Evergreen Notes/@T Delphi method 德尔菲法\|@T Delphi method 德尔菲法]]
+- [[! Evergreen Notes/Serious Game 正经游戏\|Serious Game 正经游戏]] 
 - Modeling
 	- Mental
-		- [[！MOC Map of Content/*Mental Model 思维模型\|*Mental Model 思维模型]]
+		- [[! MOC Map of Content/*Mental Model 思维模型\|*Mental Model 思维模型]]
 	- Computer Model
 		- [[The Limit to Growth\|The Limit to Growth]] 
 - Visioning
 	- Future Workshop by [[Robert Jungk\|Robert Jungk]]
-	- [[！Evergreen Notes/Preferred Future 偏好未來\|Preferred Future 偏好未來]] 
+	- [[! Evergreen Notes/Preferred Future 偏好未來\|Preferred Future 偏好未來]] 
 
 > A business scanner systematically reads magazines, news- papers, government reports, and other publications and moni- tors selected Web sites, searching for relevant information using key words.
 > Pg 81
@@ -77,8 +77,8 @@ Weiner, Edrich, Brown, Inc. (The Future Hunters)
 
 
 
-Created Date: [[Daily Notes/2022-11-22\|2022-11-22]]
-Recent Update: [[Daily Notes/2022-11-29\|2022-11-29]]
+Created Date: [[Daily Notes/2022/2022-11-22\|2022-11-22]]
+Recent Update: [[Daily Notes/2022/2022-11-29\|2022-11-29]]
 
 ---
 Trend Classification Method
@@ -107,7 +107,7 @@ Similar to [[4. Archives/Temp-Permanent Notes/@T STEEP\|@T STEEP]]
 > Too often, people talk about what to do and how to do it before they understand the situation they are in and how it is shifting.
 > Pg 87
 
-[[Daily Notes/Technological Forecasting for Decision Making\|Technological Forecasting for Decision Making]] By [[Daily Notes/Joseph P. Martino\|Joseph P. Martino]]
+[[Reference Notes/@B Technological Forecasting for Decision Making\|@B Technological Forecasting for Decision Making]] By [[Reference Notes/@P Joseph P. Martino\|@P Joseph P. Martino]]
 
 ## Impact Analysis
 Trend 
@@ -135,7 +135,7 @@ Discount possibility of certain suggested future events if it was hard to write 
 Benestrophe: many good things happening at once; the opposite of a catastrophe. 
 
 ---
-Updated on [[Daily Notes/2022-11-29\|2022-11-29]]
+Updated on [[Daily Notes/2022/2022-11-29\|2022-11-29]]
 
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -144,8 +144,8 @@ Updated on [[Daily Notes/2022-11-29\|2022-11-29]]
 
 
 
-Created Date: [[Daily Notes/2022-11-29\|2022-11-29]]
-Recent Update: [[Daily Notes/2022-11-30\|2022-11-30]]
+Created Date: [[Daily Notes/2022/2022-11-29\|2022-11-29]]
+Recent Update: [[Daily Notes/2022/2022-11-30\|2022-11-30]]
 
 ---
 >By [[@P Michael Michalko\|@P Michael Michalko]]
@@ -160,7 +160,7 @@ Recent Update: [[Daily Notes/2022-11-30\|2022-11-30]]
 
 ## Related Ideas
 - [[@B Metaphors We Live By\|@B Metaphors We Live By]]
-- [[！Evergreen Notes/Idea Slot Machines\|Idea Slot Machines]]
+- [[! Evergreen Notes/Idea Slot Machines\|Idea Slot Machines]]
 
 
 ## References
@@ -187,7 +187,7 @@ Future :
 -  urgency
 
 ---
-[[Daily Notes/2022-12-09\|2022-12-09]]
+[[Daily Notes/2022/2022-12-09\|2022-12-09]]
 
 #Def [[4. Archives/Temp-Permanent Notes/Foresight\|Foresight]] :
 the ability to make decisions that are judged to be good not just in the present moment but in the long run
