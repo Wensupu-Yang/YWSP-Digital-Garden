@@ -6,8 +6,8 @@
 # @B The Practice Shipping Creative Work
 ISBN: 978-0593328972
 Author:  [[@P Seth Godin\|@P Seth Godin]]
-Date Read: [[Daily Notes/2022-12-18\|2022-12-18]]
-Recent Update Date: [[Daily Notes/2022-12-18\|2022-12-18]]
+Date Read: [[Daily Notes/2022/2022-12-18\|2022-12-18]]
+Recent Update Date: [[Daily Notes/2022/2022-12-18\|2022-12-18]]
 Go to the [Amazon](https://www.amazon.co.uk/Practice-Shipping-Creative-Work/dp/0593328973) page for details and reviews.
 
 ---
