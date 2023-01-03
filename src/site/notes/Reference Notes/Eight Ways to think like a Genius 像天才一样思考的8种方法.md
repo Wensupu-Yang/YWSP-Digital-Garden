@@ -3,8 +3,8 @@
 ---
 
 
-Created Date: [[Daily Notes/2022-11-29\|2022-11-29]]
-Recent Update: [[Daily Notes/2022-11-30\|2022-11-30]]
+Created Date: [[Daily Notes/2022/2022-11-29\|2022-11-29]]
+Recent Update: [[Daily Notes/2022/2022-11-30\|2022-11-30]]
 
 ---
 >By [[@P Michael Michalko\|@P Michael Michalko]]
@@ -19,7 +19,7 @@ Recent Update: [[Daily Notes/2022-11-30\|2022-11-30]]
 
 ## Related Ideas
 - [[@B Metaphors We Live By\|@B Metaphors We Live By]]
-- [[！Evergreen Notes/Idea Slot Machines\|Idea Slot Machines]]
+- [[! Evergreen Notes/Idea Slot Machines\|Idea Slot Machines]]
 
 
 ## References
