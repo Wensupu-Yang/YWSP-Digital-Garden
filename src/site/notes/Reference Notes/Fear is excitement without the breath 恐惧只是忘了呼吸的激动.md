@@ -3,8 +3,8 @@
 ---
 
 
-Created Date: [[Daily Notes/2022-11-29\|2022-11-29]]
-Recent Update: [[Daily Notes/2022-12-01\|2022-12-01]]
+Created Date: [[Daily Notes/2022/2022-11-29\|2022-11-29]]
+Recent Update: [[Daily Notes/2022/2022-12-01\|2022-12-01]]
 
 ---
 #Fear #Quote 
