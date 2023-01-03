@@ -3,8 +3,8 @@
 ---
 
 
-Created Date: [[Daily Notes/2022-12-14\|2022-12-14]]
-Recent Update:  [[Daily Notes/2022-12-14\|2022-12-14]]
+Created Date: [[Daily Notes/2022/2022-12-14\|2022-12-14]]
+Recent Update:  [[Daily Notes/2022/2022-12-14\|2022-12-14]]
 
 ---
 
@@ -18,7 +18,7 @@ Five Steps of the [[Scientific Method\|Scientific Method]]
 ## Related Ideas
 - Making the assumption transparent
 - Caution on Hypothesis Testing
-- Natural Experiment or [[Daily Notes/RCT (Randomized Controlled Trials)\|RCT (Randomized Controlled Trials)]]
+- Natural Experiment or [[RCT (Randomized Controlled Trials)\|RCT (Randomized Controlled Trials)]]
 - Bayesian update in light of new results
 
 
