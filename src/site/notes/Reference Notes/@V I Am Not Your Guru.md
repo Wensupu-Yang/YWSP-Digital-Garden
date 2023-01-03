@@ -6,7 +6,7 @@
 Tag: #Inspriation [[@P Tony Robbins\|@P Tony Robbins]]
 Source: [【Netflix】托尼·罗宾斯：做自己的大师 1080P官方双语字幕 Tony Robbins I Am Not Your Guru_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1da4y1p7c9/)
 
-> [[Daily Notes/Stay in Your head, You're Dead. 不付诸行动，你就是死人一个\|Stay in Your head, You're Dead. 不付诸行动，你就是死人一个]] 
+> [[Reference Notes/Stay in Your head, You're Dead. 不付诸行动，你就是死人一个\|Stay in Your head, You're Dead. 不付诸行动，你就是死人一个]] 
 
 > What are the two deepest fears everyone has?
 > They're Not Enough
