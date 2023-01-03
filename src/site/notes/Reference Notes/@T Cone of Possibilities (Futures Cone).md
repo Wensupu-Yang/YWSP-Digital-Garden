@@ -3,8 +3,8 @@
 ---
 
 
-Created Date: [[Daily Notes/2022-12-13\|2022-12-13]]
-Recent Update:  [[Daily Notes/2022-12-13\|2022-12-13]]
+Created Date: [[Daily Notes/2022/2022-12-13\|2022-12-13]]
+Recent Update:  [[Daily Notes/2022/2022-12-13\|2022-12-13]]
 
 ---
 
