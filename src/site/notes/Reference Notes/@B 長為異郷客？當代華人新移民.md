@@ -5,8 +5,8 @@
 
 # @B 長為異郷客？當代華人新移民
 ISBN: 978-981-12-3095-0
-Date Read: [[Daily Notes/2022-12-12\|2022-12-12]]
-Recent Update Date: [[Daily Notes/2022-12-12\|2022-12-12]]
+Date Read: [[Daily Notes/2022/2022-12-12\|2022-12-12]]
+Recent Update Date: [[Daily Notes/2022/2022-12-12\|2022-12-12]]
 Go to this page https://www.worldscientific.com/worldscibooks/10.1142/g480#t=aboutBook for details and purchases.
 
 ---
