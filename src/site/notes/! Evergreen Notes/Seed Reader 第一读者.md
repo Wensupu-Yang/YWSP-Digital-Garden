@@ -19,4 +19,4 @@ Recent Update: [[Daily Notes/2022/2022-11-25\|2022-11-25]]
 
 
 ## References
-#IRL  [[Reference Notes/@E 美灵会客厅第三十八期\|@E 美灵会客厅第三十八期]]  @[[Reference Notes/WYGG\|WYGG]]
+#IRL  [[Reference Notes/@E 美灵会客厅第三十八期\|@E 美灵会客厅第三十八期]]  @[[Reference Notes/@F WYGG\|@F WYGG]]
