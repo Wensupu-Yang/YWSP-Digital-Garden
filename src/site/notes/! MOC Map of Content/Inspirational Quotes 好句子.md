@@ -14,5 +14,6 @@
 - [[Reference Notes/(GIGO) Great inputs promote great outputs 好输入促进好产出\|(GIGO) Great inputs promote great outputs 好输入促进好产出]]
 - [[Reference Notes/Questions are the answer... What's your dominant question?  问题即答案...你的主导问题是什么？\|Questions are the answer... What's your dominant question?  问题即答案...你的主导问题是什么？]]
 - [[Reference Notes/Life is C between B and D. 人生是在出生(Birth)和死亡(Death) 之间的选择(Choices)\|Life is C between B and D. 人生是在出生(Birth)和死亡(Death) 之间的选择(Choices)]]
+- [[Reference Notes/Find something you LOVE and let it KILL you 找到你热爱的事，然后让它杀了你\|Find something you LOVE and let it KILL you 找到你热爱的事，然后让它杀了你]] 
 
 
