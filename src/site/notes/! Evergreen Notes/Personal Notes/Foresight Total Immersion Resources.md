@@ -47,7 +47,7 @@ Tools to keep me excited and steepen the learning curve
 - [[Reference Notes/@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century\|@B The Foresight Guide Anticipating, Creating, and Leading in the 21st Century]]
 - [[Reference Notes/@B Futuring_The Exploration of the Future\|@B Futuring_The Exploration of the Future]]
 - [[@B Teaching about the Future\|@B Teaching about the Future]]
-- [[@B Thinking about the Future 2nd Edition\|@B Thinking about the Future 2nd Edition]]
+- [[Reference Notes/@B Thinking about the Future 2nd Edition\|@B Thinking about the Future 2nd Edition]]
 - [[@B The Art of the Long View\|@B The Art of the Long View]]
 - [[@B Foundations of Futures Studies: Human Science for a New Era: History, Purposes, and Knowledge, Volumes I and II\|@B Foundations of Futures Studies: Human Science for a New Era: History, Purposes, and Knowledge, Volumes I and II]]
 - [[@B Scenario Thinking_Preparing Your Organization for the Future in an Unpredictable World, 2nd ed\|@B Scenario Thinking_Preparing Your Organization for the Future in an Unpredictable World, 2nd ed]]
@@ -62,6 +62,8 @@ Tools to keep me excited and steepen the learning curve
 - [[@B Leading from the Emerging Future\|@B Leading from the Emerging Future]]
 - [[@B The Long Boom\|@B The Long Boom]]
 - [[@B The Five Futures Glasses_How to See and Understand More of the Future with the Eltville Model\|@B The Five Futures Glasses_How to See and Understand More of the Future with the Eltville Model]]
+- [[@B Mastering the Hype Cycle\|@B Mastering the Hype Cycle]]
+- [[@B Spiral Dynamics_Mastering Values, Leadership, and Change\|@B Spiral Dynamics_Mastering Values, Leadership, and Change]]
 - [[@B An Incomplete Guide to the Future\|@B An Incomplete Guide to the Future]] ∅
 - [[@B The Art of Conjecture\|@B The Art of Conjecture]] ∅
 - [[@B Biggest Wakeup Call in History\|@B Biggest Wakeup Call in History]] ∅
@@ -88,6 +90,7 @@ Tools to keep me excited and steepen the learning curve
 ## Magazine
 
 ## Video
+[Foresight Institute | YouTube](https://www.youtube.com/@ForesightInstitute)
 
 ## Course
 
